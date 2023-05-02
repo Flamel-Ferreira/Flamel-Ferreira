@@ -1,7 +1,7 @@
 # Olá! Meu nome é Flamel Ferreira 👋
 
 # Sobre mim:
-Eu sou um desenvolvedor Front-End. Sou apaixonado por tecnologia, e essa paixão me levou a explorar o mundo da programação. Busco sempre aprender novas tecnologias e aprimorar minhas habilidades, através de desafios e projetos pessoais.
+Eu sou um desenvolvedor Front-End. Sou apaixonado por tecnologia, e essa paixão me levou a explorar o mundo da programação. Busco sempre aprender novas tecnologias e aprimorar minhas habilidades, através de desafios, projetos pessoais e profissionais!
 
 Acredito que o acesso à tecnologia deve ser livre a todos e em breve desejo contribuir para a comunidade de tecnologia da melhor maneira possível. Se você está procurando um desenvolvedor Front-End dedicado que sempre tem muita vontade de aprender, não hesite em entrar em contato comigo!
 
